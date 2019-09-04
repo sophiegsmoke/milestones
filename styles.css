@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+/*universal changes*/
+*{
+  background-image: url("https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi86Y2rwLfkAhVST98KHRXfDMAQjRx6BAgBEAQ&url=https%3A%2F%2Firishtechnews.ie%2Fout-with-the-old-in-with-the-new%2F&psig=AOvVaw3pUn0GcLvBomfM_xVqw9D5&ust=1567697989248615");
+}
+/*tags*/
+html {
+
+}
+/*classes*/
+.background{
+  background-color: gray
+}
+.title{
+  text-align: center;
+  font-family:
+}
