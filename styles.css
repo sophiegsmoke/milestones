@@ -1,3 +1,9 @@
+@font-face {
+  font-family: 'Welcome';
+  src: url(fonts/Welcome-Regular.otf);
+}
+
+
 /*universal changes*/
 *{
 }
@@ -11,10 +17,14 @@ html {
   text-align: center;
   font-family: monospace;
 }
-.title{
+.title {
   text-align: center;
-  font-family:
+  font-family:'Welcome';
+  font-size: 50px
 }
 .body{
   text-align: center;
+}
+h2 {
+  font-size: 30px
 }
