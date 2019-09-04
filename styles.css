@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Welcome';
-  src: url(fonts/Welcome);
+  src: url(fonts/'Welcome');
 
 }
 
@@ -13,10 +13,11 @@ html {
   background-repeat: no-repeat; background-image: url("file://C:/This-PC/Documents/GitHub/milestones/pictures/download.jfif");
 }
 /*classes*/
-.1999{
-  background-color: gray
+.ninety-nine{
+  background-color: lightblue;
   text-align: center;
   font-family: monospace;
+  font-size: 20px
 }
 .title {
   text-align: center;
@@ -29,3 +30,9 @@ html {
 h2 {
   font-size: 30px
 }
+.two-thousand1{
+  background-color: lightpink;
+  font-family: monospace;
+  font-size: 20px
+}
+.two-thouosand
