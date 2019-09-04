@@ -1,6 +1,7 @@
 @font-face {
   font-family: 'Welcome';
-  src: url(fonts/Welcome-Regular.otf);
+  src: url(fonts/Welcome);
+
 }
 
 
@@ -9,7 +10,7 @@
 }
 /*tags*/
 html {
-  background-repeat: no-repeat; background-image: url("download.jpg");
+  background-repeat: no-repeat; background-image: url("download.jfif");
 }
 /*classes*/
 .1999{
@@ -20,7 +21,7 @@ html {
 .title {
   text-align: center;
   font-family:'Welcome';
-  font-size: 50px
+  font-size: 40px
 }
 .body{
   text-align: center;
