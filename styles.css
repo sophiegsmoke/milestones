@@ -4,28 +4,47 @@
 }
 /*tags*/
 html {
-  background-repeat: no-repeat; background-image: url("file://C:/This-PC/Documents/GitHub/milestones/pictures/download.jfif");
+  background-color: lightgray;
 }
 /*classes*/
 .ninety-nine{
-  background-color: lightblue;
-  text-align: center;
+  margin: 120px;
+  background-color: #F9EDF0;
   font-family: monospace;
-  font-size: 20px
+  font-size: 25px
 }
 .title {
   text-align: center;
+  font-family: 'Special Elite', cursive; serif;
   font-size: 40px
 }
 .body{
   text-align: center;
 }
 h2 {
-  font-size: 30px
+  font-family: 'Special Elite', cursive; serif;
+  font-size: 35px
 }
 .two-thousand1{
-  background-color: lightpink;
+  margin: 120px;
+  background-color: #E3C9D0;
   font-family: monospace;
-  font-size: 20px
+  font-size: 25px
 }
-.two-thouosand
+h3 {
+  font-family: 'Sacramento', cursive;
+  font-size: 40px
+}
+.two-thousand2{
+  margin: 120px;
+  font-size: 25px;
+  font-family: monospace;
+  background-color: #EF9FB2;
+
+}
+.two-thousand7{
+  margin: 120px;
+  font-size: 25px;
+  font-family: monospace;
+  background-color: #DE6B8A;
+}
