@@ -1,56 +1,62 @@
 /*universal changes*/
-*{
-  background-color: gray
-}
 /*tags*/
-html {
+html{
   background-color: lightgray;
 }
 /*classes*/
 .ninety-nine{
   margin: 120px;
-  background-color: #F9EDF0;
   font-family: monospace;
-  font-size: 25px
+  background-color: #FBE2E8 !important;
+  font-size: 25px;
+  height: auto;
 }
 .title {
   text-align: center;
   font-family: 'Special Elite', cursive; serif;
-  font-size: 40px
+  font-size: 40px;
 }
 .body{
   text-align: center;
 }
 h2 {
   font-family: 'Special Elite', cursive; serif;
-  font-size: 35px
+  font-size: 35px;
 }
 .two-thousand1{
   margin: 120px;
-  background-color: #E3C9D0;
   font-family: monospace;
-  font-size: 25px
+  font-size: 25px;
+  background-color: #F0AFC0;
 }
 h3 {
   font-family: 'Sacramento', cursive;
-  font-size: 40px
+  font-size: 40px;
 }
 .two-thousand2{
   margin: 120px;
   font-size: 25px;
   font-family: monospace;
-  background-color: #EF9FB2;
+  background-color: #EF97AF;
 
 }
 .two-thousand7{
   margin: 120px;
   font-size: 25px;
   font-family: monospace;
-  background-color: #DE6B8A;
+  background-color: #EA5B81;
 }
 .two-thousand10{
   margin: 120px;
   font-size: 25px;
   font-family: monospace;
-  background-color: #A24C8C;
+  background-color: #DC0241;
+}
+a {
+  color:black;
+}
+footer {
+  color: #C27087;
+  font-family: 'Special Elite', cursive; serif;
+  font-size: 30px
 }
