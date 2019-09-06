@@ -1,12 +1,6 @@
-@font-face {
-  font-family: 'Welcome';
-  src: url(fonts/'Welcome');
-
-}
-
-
 /*universal changes*/
 *{
+  background-color: gray
 }
 /*tags*/
 html {
@@ -21,7 +15,6 @@ html {
 }
 .title {
   text-align: center;
-  font-family:'Welcome';
   font-size: 40px
 }
 .body{
